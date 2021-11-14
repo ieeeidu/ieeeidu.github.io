@@ -34707,19 +34707,18 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 80px;
+    min-height: 102px;
   }
 
   .u-header .u-image-1 {
-    width: 243px;
-    height: 47px;
-    margin-top: 16px;
-    margin-left: -36px;
+    width: 310px;
+    height: 44px;
+    margin-top: 29px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -41px;
-    margin-bottom: 22px;
+    margin-top: -39px;
+    margin-bottom: 33px;
   }
 }
 .u-footer .u-sheet-1 {
